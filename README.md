@@ -4,7 +4,7 @@
 
 ### Simple Architecture 
 
-![simple-k8s-architecture](.images/k8s_simple.png)
+![simple-k8s-architecture](.images/simple_k8s.png)
 
 ### Deployment
 
